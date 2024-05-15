@@ -10,4 +10,4 @@ Tenho 18 anos, sou estudante de programação back-end, trabalho na Intelbras e 
 
 ### Linguagens 🐙
 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"/> </a>
+<a href="" target="_blank"> <img src= "https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="git" width="40"/> </a>
